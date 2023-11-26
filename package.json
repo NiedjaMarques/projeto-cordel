@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tailwindcss build -o ./path/to/output.css",
+    "start": "npx serve"
+  }  
+}
+
